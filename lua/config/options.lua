@@ -51,3 +51,4 @@ vim.opt.termguicolors = true
 vim.opt.conceallevel = 2
 
 vim.opt.mouse = ""
+vim.opt.spelllang = { "en", "fr" }
